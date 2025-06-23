@@ -25,7 +25,7 @@ function switchDisplay() {
   
   sap2ort.insertAdjacentHTML(
     'beforeend',
-    `<p id="${firstId}"><ins style="display: block;" data-ad-client="${adClient}" data-ad-slot="${adSlot}" data-ad-format="auto" data-full-width-responsive="true"><!-- --></ins></p>`
+    `<p id="${firstId}"><ins style="display: block;" data-ad-client="${adClient}" data-ad-slot="${adSlot}" data-ad-format="auto" data-full-width-responsive="true"><!-- --></ins><!-- --></p>`
   );
 }
 
