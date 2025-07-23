@@ -1,0 +1,1 @@
+document.write('<meta name="google-adsense-account" content="ca-pub-5005673256143644">');
